@@ -6,4 +6,4 @@ e o objetivo desse repositorio que eu criei no github é:<br>
 1. Fazer uma copiá de sites (netflix, amazon ou qualquer outro) para testar meus conhecimentos (mas este é um objetivo a longo prazo e sei que vai demora)
 2. publicar alguns sites de teste que vou criar durante meu aprendizado.
 
-por enquanto é so isso mas em breve trarei novidade!!!
+por enquanto é so isso mas em breve trarei novidades!!!
